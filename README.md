@@ -237,3 +237,6 @@ This repository serves as the official landing page for Cinema HD. The software 
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Cinema HD today!**
+
+---
+**Last updated:** 2026-09-11 19:20:49 UTC
